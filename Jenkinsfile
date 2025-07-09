@@ -22,6 +22,5 @@ node {
               img.push()
           }
     }
-   
-   
+      
 }
