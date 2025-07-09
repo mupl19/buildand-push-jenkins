@@ -21,6 +21,5 @@ node {
        docker.withRegistry('https://registry.hub.docker.com/' , 'dockerhub_id') {
               img.push()
           }
-    }
-      
+    }      
 }
